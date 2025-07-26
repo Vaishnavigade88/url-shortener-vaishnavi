@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-             Vaishnavi Gade - Application
+          Vaishnavi Gade - Application
           </Title>
 
           <Text
